@@ -1,11 +1,13 @@
 d:assets:0:application/unknown
 i:bgsky-old.png:154935:image/png
 i:uiskin.png:28299:image/png
+i:calculator.png:2086:image/png
 b:spaceship.xcf:42523:application/unknown
 i:gate.png:3372:image/png
 i:new.png:16684:image/png
 b:gate-down.xcf:8160:application/unknown
 b:default.xcf:98499:application/unknown
+b:slow.xcf:7655:application/unknown
 i:big.png:26976:image/png
 b:ggate.xcf:24193:application/unknown
 i:spaceship.png:3722:image/png
@@ -19,6 +21,7 @@ b:shuttle.xcf:22944:application/unknown
 t:big.fnt:20379:application/unknown
 t:uiskin.atlas:2924:application/unknown
 i:bgsky.png:201023:image/png
+i:low-speed.png:2770:image/png
 b:gate.xcf:19359:application/unknown
 i:badlogic.jpg:86628:image/jpeg
 b:gate-field.xcf:32529:application/unknown
